@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<head>
+  <style>
+  h1{     /* styling the title */
+    text-align: center;
+    margin-left: 7.5%;
+  }
+  .center{  /* styling the image */
+    display:block;
+    margin-left: 50%;
+    margin-right: auto;
+    width: 50%;
+  }
+  ul{   /* styling the menu*/
+    display: block;
+    margin-left: 27%;
+    margin-right: auto;
+    width: 50%;
+    text-align:center;
+  }
+  ul li{
+    list-style: none;
+    display: inline-block;
+  }
+  ul li a{
+    display:block;
+    text-decoration: none;
+    display:inline-block;
+  }
+
+
+body{color:black;
+background-color:azure;
+font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+section{font-family: -apple-system, BlinkMacSystemFont, sans-serif
+}
+</style>
+</head>
+
+
+<body>
+
+    <h1> iPhone ULTIMATE </h1>  <!-- title -->
+    <nav>
+      <ul>  <!-- making the menu-->
+        <li><a href="ITB.html">Home</a></li>
+        <li><a href="ITB_specification.html">Specification</a></li>
+        <li><a href="ITB2.html">Register</a></li>
+        <li><a href="About us.html">About us</a></li>
+        <li><a href="ITB3.html">Buy our product</a></li>
+      </ul>
+    </nav>
+<h2><em><strong>SERVICE LEVEL AGREEMENT</strong></em></h2>
+<hr>
+<p>The iPhone ULTIMATE is the best available iPhone on the High- Tech market. Improved with extra features and licenesed software and hardware by Apple Inc, what you are getting is the newest and most reliable smartphone out there.</p>
+<p>With an uptime of 99.9 percent and a team full of professionals you can feel safe and confident to schedule service dates or make requests and enquires at any given time and receive a response in a very short manner.</p>
+<p>We also strive to take complaints and reported problems very seriously. The procedure goes through our "Complaints and inconviniences" department which carefully analyse and escalate the more difficult problems to one of the leaders of the company Indeerver Paul. </p>
+<p>iPhone ULTIMATE's performance is being monitored weekly by the second leader of the company Rene Zbasnik. Our policy includes restriction to certain performance details to the customer as well as the collection of data and how often it should be collected. </p>
+<p>In the event of "iPhone ULTIMATE" not meeting the legal service obligations the third leader Kyle Pette can provide all of our customers with credit, reimbursement, gifts, or terminating the customer' s relationship with the company.</p>
+<p>The fourth leader Christopher Shaufler will communicate any issues within the company as far as exclusion clause or constraints. In the event of a system/ software malfunction or leak/ fire the company may be excused of any unpredicted downtime and customer inconvinience. </p>
+<hr>
+<h3>Please read this software service level agreement before using your device</h3>
+<hr>
+<p>If you have read the service level agreement and are not happy with the terms and conditions you are able to return the device as long as there has been no damaged caused and is within the return date </p>
+<h4><u> 1.0 Agreement Overview </u></h4>
+<p>This agreement is a service level agreement between the company and consumer. This agreement states the what the customer can expect from our product and services and what standards are expected. Please read this software service level agreement before using your device.</p>
+<h4><u>2.0 Services And Support </u></h4>
+<p>The customer will rely on the effectiveness and efficiency of the product itself specifically the hardware and software. We can ensure that are products will be serviced and updated regularly in order to maintain the quality and provide the customer with a high customer satisfaction. The service provider and customer will need to be in agreeance of a mutual understanding that both parties have obligations. Those parties with acceptance move forward and accept the terms and conditions laid out in the agreement. </p>
+  <u>The service provider will agree to carryout and complete several services:</u>
+  <li>Issue a new phone within the terms of the warranty</li>
+ <li>Offer a support service which allows the customer to get in contact with any issues or enquiries</li>
+ <li>Provide high quality products to customer satisfaction as advertised</li>
+<h4><u>3.0 Terms and Conditions </u></h4>
+<p> Term and Termination</p>
+The agreement is to be set on a 1 year fixed term which can be altered if any business arrangements have been changed or made. Otherwise the customer may be eligible to renew there agreement for another year.
+<h4><u>3.1 Consumer responsibility</u></h4>
+It is the consumer responsibility to read the terms and conditions understand what is being asked before accepting it. We will not be responsible for any prenotations or any pre conceived ideas as all our service is provided in the agreement. Failure to read the
+agreement could be costly if for example, if you believed you was in for a warranty cover and this was not the case.
+<h4><u>3.2 Warranty</u></h4>
+In the event that your phone is stolen, damaged, or faulty you will be eligible toclaim your warranty along as it is within the year of our contract agreement. This is part of the consumer rights agreement.
+<p><b>Only our products purchased from our website or stores may be eligible to claim our warranty plan</b><p>
+The agreement is to be set on a 1 year fixed term which can be altered if any business arrangements have been changed or made. Otherwise the customer may be eligible to renew there agreement for another year.
+What is not on the warranty plan:
+Any damage caused to the hardware itself such as scratches on the phone cover, screen etc. Unless when the phone was purchased it was tampered at manufactution or in transit you will be eligible to claim with provided proof of this infraction.
+Any self inflicted damage to the accessories such as the charging cable, earphones or even the charging plug itself.
+If requirements are met.
+<h5><u>REPAIR:</u></h5>
+<p><font size="-1">We will repair the product for you using our official iphone X parts equivalent to our brand new products high standards. Any of the replacement parts will have a 60 day warranty in case of any wear and tear issues. </font></p>
+<h5><u>REPLACEMENT:</u></h5>
+<p><font size="-1">If your device is not repairable or is not worth the costs we will then replace the device with the exact same model. </font></p>
+<h5><u>REFUND:</u></h5>
+<p><font size="-1"> If this was issue of production on our end and you are not satisfied you may be issued a refund if requested will a full reimbursement including any delivery charges if you ordered online. </font></p>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1{     /* styling the title */
+  text-align: center;
+  margin-left: 7.5%;
+}
+img.center{  /* styling the image */
+   display:block;
+   margin-left: 43%;
+   margin-right: auto;
+   width: 50%;
+
+  }
+
+
+ul{   /* styling the menu*/
+  display: block;
+  margin-left: 27%;
+  margin-right: auto;
+  width: 50%;
+  text-align:center;
+}
+ul li{
+  list-style: none;
+  display: inline-block;
+}
+ul li a{
+  display:inline-block;
+  text-decoration: none;
+}
+
+
+
+body{color:black;
+background-color:azure;
+font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+section{font-family: -apple-system, BlinkMacSystemFont, sans-serif
+}
+</style>
+</head>
+<body>
+
+<h1> iPhone ULTIMATE </h1>  <!-- title -->
+<nav>
+  <ul>  <!-- making the menu-->
+    <li><a href="ITB.html">Home</a></li>
+    <li><a href="ITB_specification.html">Specification</a></li>
+    <li><a href="ITB2.html">Register</a></li>
+    <li><a href="About us.html">About us</a></li>
+    <li><a href="ITB3.html">Buy Our Product</a></li>
+  </ul>
+</nav>
+
+<img src = "IMG.jpg"  height = 50% width = 50% class="center">
+
+
+
+
+</body>
+</html>
+
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+</head>
+
+<body>
+<?php
+
+// Create connection
+$con = mysqli_connect("127.0.0.1", "root", "", "ITB_table");
+
+// Check connection
+if (!$con) {
+  die("Connection failed: " . mysqli_connect_error());
+}
+echo "Connected successfully";
+
+if(isset($_POST['submit'])){
+
+  $name = $_POST['name'];
+  $username = $_POST['username'];
+  $password = $_POST['password'];
+
+
+
+$query = "INSERT INTO Register (Name, Username, Password) VALUES ('$name', '$username', '$password')";
+
+$rs = mysqli_query($con, $query);
+
+if($rs)
+{
+    echo "Contact Records Inserted";
+}
+}
+
+
+?>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1{     /* styling the title */
+  text-align: center;
+  margin-left: 7.5%;
+
+}
+.center{  /* styling the image */
+  display:block;
+  margin-left: 43%;
+  width: 50%;
+}
+ul{   /* styling the menu*/
+  display: block;
+  margin-left: 27%;
+  margin-right: auto;
+  width: 50%;
+  text-align:center;
+}
+ul li{
+  list-style: none;
+  display: inline-block;
+}
+ul li a{
+  display:inline-block;
+  text-decoration: none;
+}
+body{color:black;
+background-color:azure;
+font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+section{font-family: -apple-system, BlinkMacSystemFont, sans-serif
+}
+
+</style>
+</head>
+<body>
+
+<h1> iPhone ULTIMATE </h1>  <!-- title -->
+
+<nav>
+  <ul>  <!-- making the menu-->
+    <li><a href="ITB.html">Home</a></li>
+    <li><a href="ITB_specification.html">Specification</a></li>
+    <li><a href="ITB2.html">Register</a></li>
+    <li><a href="About us.html">About us</a></li>
+    <li><a href="ITB3.html">Buy our product</a></li>
+  </ul>
+
+</nav>
+<!-- Adding the image -->
+<img src = "IMG.jpg"  height = 50% width = 50% class="center">
+
+<section>
+  <h1> iPhone ULTIMATE Specifications </h1>
+  <p> Apple A13 Bionic (7 nm+)
+    RAM (Memory) 4 GB
+    Internal Storage 64 GB, 128 GB, 256 GB
+    Memory Card Slot No
+    Sensors Face ID,
+    accelerometer, gyro, proximity, compass,
+    Touch ID
+    barometer Siri natural language commands and dictation,
+    5G Network
+    Thermomete App
+
+
+  </P>
+
+
+</section>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+        h1{
+          text-align: center;
+          margin-left: 7.5%;
+        }
+        ul{   /* styling the menu*/
+          display: block;
+          margin-left: 27%;
+          margin-right: auto;
+          width: 50%;
+          text-align:center;
+        }
+        ul li{
+          list-style: none;
+          display: inline-block;
+        }
+        ul li a{
+          display:block;
+          text-decoration: none;
+          display:inline-block;
+
+
+}
+
+
+
+      body{color:black;
+      background-color:azure;
+      font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+      }
+      section{font-family: -apple-system, BlinkMacSystemFont, sans-serif
+      }
+
+
+        </style>
+    </head>
+<body>
+  <h1> iPhone ULTIMATE </h1>
+  <nav>
+    <ul>
+      <li><a href="ITB.html">Home</a></li>
+      <li><a href="ITB_specification.html">Specification</a></li>
+      <li><a href="ITB2.html">Register</a></li>
+      <li><a href="About us.html">About us</a></li>
+      <li><a href="ITB3.html">Buy our product</a></li>
+    </ul>
+  </nav>
+  <form action="ITB2.php">
+      <label>How many iPhones do you want to buy?</label></br>
+      <input type='text' name = 'quantity'></br>
+      <input type = 'submit' name = 'submit' id = 'submit' formaction="ITB3.html">
+  </form>
+
+
+
+</body>
+</html>
